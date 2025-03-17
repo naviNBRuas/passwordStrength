@@ -1,0 +1,2 @@
+tkinter==8.6
+password_strength==0.0.3
